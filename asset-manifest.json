@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b149af82.chunk.css",
+    "main.js": "/portfolio/static/js/main.4a15e173.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4a15e173.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f69e773e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f69e773e.js.map",
+    "static/js/2.707b074e.chunk.js": "/portfolio/static/js/2.707b074e.chunk.js",
+    "static/js/2.707b074e.chunk.js.map": "/portfolio/static/js/2.707b074e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.e68ed5200904d1bb71aad596fb8593ac.js": "/portfolio/precache-manifest.e68ed5200904d1bb71aad596fb8593ac.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.b149af82.chunk.css.map": "/portfolio/static/css/main.b149af82.chunk.css.map",
+    "static/media/LinkedIn_logo.png": "/portfolio/static/media/LinkedIn_logo.3f60edfd.png",
+    "static/media/Logo_Saclay.png": "/portfolio/static/media/Logo_Saclay.9a174c6f.png",
+    "static/media/Logo_Sorbonne_Universite.png": "/portfolio/static/media/Logo_Sorbonne_Universite.9728a6bd.png",
+    "static/media/USTHB_Logo.png": "/portfolio/static/media/USTHB_Logo.9f2b9a6a.png",
+    "static/media/arrow.svg": "/portfolio/static/media/arrow.31be4c0b.svg",
+    "static/media/beijing.webp": "/portfolio/static/media/beijing.209dcd10.webp",
+    "static/media/dallas.jpg": "/portfolio/static/media/dallas.7a4c228c.jpg",
+    "static/media/dls.png": "/portfolio/static/media/dls.f172be61.png",
+    "static/media/github_logo.png": "/portfolio/static/media/github_logo.9cab3941.png",
+    "static/media/image2.jpeg": "/portfolio/static/media/image2.5a5af15e.jpeg",
+    "static/media/newyork.webp": "/portfolio/static/media/newyork.ebb81965.webp",
+    "static/media/paintwars.png": "/portfolio/static/media/paintwars.48ac4fa7.png",
+    "static/media/pathfinding.png": "/portfolio/static/media/pathfinding.7e07f4ab.png",
+    "static/media/pinBoard.png": "/portfolio/static/media/pinBoard.66f92b7e.png",
+    "static/media/reseau.png": "/portfolio/static/media/reseau.b2931d53.png",
+    "static/media/sanfrancisco.webp": "/portfolio/static/media/sanfrancisco.b58ad59e.webp",
+    "static/media/twisster.png": "/portfolio/static/media/twisster.0c0fccbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f69e773e.js",
+    "static/js/2.707b074e.chunk.js",
+    "static/css/main.b149af82.chunk.css",
+    "static/js/main.4a15e173.chunk.js"
+  ]
+}
