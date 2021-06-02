@@ -76,10 +76,11 @@ function App() {
           <div className='wrapper'>
             <div className='home'>
               <Switch>
-                <Route exact path='/' component={() => <Home handleClique={handleClique} />} />
                 <Route exact path='/aboutme' component={Competences} />
                 <Route exact path='/projets' component={Projets} />
                 <Route exact path='/contact' component={Contact} />
+                <Route path='/' component={() => <Home handleClique={handleClique} />} />
+
               </Switch>
             </div>
           </div>
