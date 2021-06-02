@@ -23,18 +23,18 @@ export const formation = [
             "étudiants déterminés à acquérir une formation poussée en informatique dès" +
             "la licence.Il peut permettre une intégration professionnelle à bac+ 3 ou" +
             "ouvrir de larges possibilités de poursuite d'études. Le second semestre de " +
-            "l'année de L3 propose en particulier un ensemble d'enseignements d'ouverture" +
+            "la troisième année propose en particulier un ensemble d'enseignements d'ouverture" +
             "vers les masters d'informatique de Sorbonne Université."
     },
     {
         logo: usthb_logo,
         titre: "Licence Ingénierie des Systèmes d’Information et des Logiciels",
         description:
-            "l'objectif de la formation est d'acquirir les connaissances suivantes :" +
+            "l'objectif de la formation est d'acquérir les connaissances suivantes :" +
             "La capacité à concevoir et à développer des applications permettant aux managers de maîtriser" +
             "les systèmes opérationnels d’une entreprise et de favoriser la prise de décision (amélioration du système de pilotage), " +
-            "la maîtriser la conception, la modélisation et les architectures d’applications , notamment centrées sur le paradigme objet, " +
-            "la maîtriser les méthodes, les normes et les outils de développement de logiciels," +
+            "la maîtrise de la conception, la modélisation et les architectures d’applications , notamment centrées sur le paradigme objet, " +
+            "la maîtrise les méthodes, les normes et les outils de développement de logiciels," +
             "Connaissances des organisations (environnement, structure, fonctions, etc.) et de leur trois systèmes (système de pilotage, système d’Information (SI), ...), " +
             "Maîtriser tout le cycle de développement d’un SI depuis l’analyse des besoins jusqu’à l’implémentation du SI opérationnel en se basant sur" +
             "la connaissance de méthodologies" +

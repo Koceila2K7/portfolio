@@ -21,7 +21,7 @@ function Projets() {
         <div className="container" id="fp">
 
             <div className="cInnerContent">
-                <h1 className="header-section gs_reveal ipsType_center">Voici une liste de quelques projects réalisé</h1>
+                <h1 className="header-section gs_reveal ipsType_center">Voici une liste de quelques projets réalisé</h1>
 
                 <div className="features">
 
@@ -37,7 +37,7 @@ function Projets() {
                             <p className="gs_reveal">
                                 L’objectif de ce projet est de programmer un analyseur de protocoles réseau
                                 ‘offline’. Il prend en entrée un fichier trace contenant les octets capturés préalablement
-                                sur un réseau Ethernet. Votre programme peut s’exécuter dans une interface graphique.
+                                sur un réseau Ethernet. Le programme peut s’exécuter dans une interface graphique.
                                 <a rel="noopener noreferrer" href="https://github.com/Koceila2K7/Analyseur-de-Protocoles-Reseau-Offline" target="_blank" >Lien GIT</a>.
                               </p>
                         </div>
@@ -50,9 +50,9 @@ function Projets() {
                                 Le but du projet est de développer un éditeur de dessins vectoriels, sur le modèle d’Adobe Illustrator
                                 ou Inkscape. Bien sûr, notre éditeur ne possédera qu’un nombre très réduit de fonctionnalités.
                                 Nous compensons cela en mettant l’accent sur une conception extensible, permettant d’ajouter
-                                facilement des fonctionnalités. La conception de l’éditeur sera basée sur les principes de délégation,
+                                facilement des fonctionnalités. La conception est basée sur les principes de délégation,
                                 de programmation vis-à-vis d’interfaces et l’emploi des <strong> design patterns</strong>.
-                                Pour la partie interface graphique (GUI), nous utiliserons l’API <strong>JavaFX</strong>.
+                                Pour la partie interface graphique (GUI), j'ai utilisé l’API <strong>JavaFX</strong>.
                                 <a rel="noopener noreferrer" href="https://github.com/Koceila2K7/pinboard" target="_blank" >Lien GIT</a>.
                             </p>
                         </div>
@@ -78,7 +78,7 @@ function Projets() {
                                 plusieurs équipes d'agents sont en compétition et cherchent à atteindre leurs destinations
                                 avant leurs adversaires. On se limitera dans ce projet à deux équipes. Afin d'éviter les
                                 situations de blocage, on fixera à l'avance une limite sur le nombre de tours du jeu. On
-                                constate que au niveau global, on peut donc voir ce problème comme un jeu à 2 joueurs dans
+                                constate qu'au niveau global, on peut donc voir ce problème comme un jeu à 2 joueurs dans
                                 lequel chaque équipe est un meta-joueur. En effet, les actions au sein de chaque équipe
                                 peuvent éventuellement être coordonnées, comme c'est le cas dans l'algorithme de cooperative
                                 path-finding mentionné précédemment.
@@ -123,7 +123,7 @@ function Projets() {
                                 de recommandation elle permet de recommander des produits aux utilisateurs, et grâce
                                 au système de traduction l'utilisateur peut traduire la notice de produit juste en la scannant.
                                 <br />
-                                Ps: ce projet n'est pas disponible en public pour plus d'informations contacter moi
+                                Ps: ce projet n'est pas disponible en public pour plus d'informations contactez-moi
                                  </p>
                         </div>
                     </div>
@@ -132,8 +132,8 @@ function Projets() {
                         <div className="ipsGrid_span7 ipsType_right">
                             <h2 className="heading_large gs_reveal">Twisster (ReactJs/ React Native/ Node Js Express)   </h2>
                             <p className="gs_reveal">
-                                Twisster est une copie du réseau social Twitter faite en react js pour le client web en utilisants:
-                                React-Redux, React-Router, Material UI, Scoket.io-Client (pour les messages en temps réel), cocernant l'application
+                                Twisster est une copie du réseau social Twitter faite en react js pour le client web en utilisant:
+                                React-Redux, React-Router, Material UI, Scoket.io-Client (pour les messages en temps réel), concernant l'application
                                 mobile j'ai utilisé (ReactNavigation,Scoket.io-Client, React-Redux ...), coté back (ExpressJs, JWT, MongoDB, SocketIo, ...).
                                 J'ai hébergé le server sur Heroku, et le client sur Netlify
                                 <a href="https://608f83850b164ed14b689b66--twisster.netlify.app/" rel="noopener noreferrer" target="_blank" >Lien Twisster</a>.
