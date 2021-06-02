@@ -1,0 +1,233 @@
+.container {
+
+
+    .hero-home {
+        visibility: hidden;
+
+        .container-home {
+            width: 100%;
+            min-width: 100%;
+            margin: 0 auto;
+            height: 85vh;
+            max-height: 85vh;
+            overflow-y: hidden;
+
+            .hero-inner-home {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin: 0 24px;
+                height: 100vh;
+
+                .hero-content-home {
+                    width: 50%;
+
+                    .hero-content-inner-home {
+                        width: 400px;
+                        margin: 0 auto;
+                        color: #323232;
+
+                        h1 {
+                            font-weight: 500;
+                            font-size: 32px;
+                            margin-bottom: 24px;
+
+                            .hero-content-line-home {
+                                overflow: hidden;
+
+                                .hero-content-line-inner-home {
+                                    margin: 0;
+                                    height: 44px;
+                                    overflow: hidden;
+                                }
+                            }
+                        }
+
+                        p {
+                            font-size: 14px;
+                            line-height: 24px;
+                            font-weight: 300;
+                            padding-right: 48px;
+                            margin-bottom: 56px;
+                        }
+
+                        .btn-row-home {
+                            position: relative;
+
+                            &:before {
+                                position: absolute;
+                                content: "";
+                                width: 56px;
+                                height: 1px;
+                                background: #dfdfdf;
+                                top: 50%;
+                                left: -60px;
+                            }
+
+                            button {
+                                background: none;
+                                border: none;
+                                font-size: 12px;
+                                padding: 0;
+                                cursor: pointer;
+                                text-transform: uppercase;
+                                font-weight: 700;
+                                letter-spacing: .7px;
+                                display: flex;
+                                align-items: center;
+                                position: relative;
+
+                                &:focus {
+                                    border: none;
+                                }
+
+                                .arrow-icon-home {
+                                    position: absolute;
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content: center;
+                                    background: #007fff;
+                                    height: 42px;
+                                    width: 42px;
+                                    border-radius: 50%;
+                                    left: 80px;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .hero-images-home {
+                    width: 50%;
+                    height: 100vh;
+                    position: relative;
+
+                    .hero-images-inner-home {
+                        .hero-image-home {
+                            position: absolute;
+                            overflow: hidden;
+
+                            &.koceila {
+                                top: 0;
+                                right: 0;
+                                width: 45%;
+                                height: 50%;
+                            }
+
+                            &.kireche {
+                                bottom: 24px;
+                                left: 0;
+                                width: 52%;
+                                height: 65%;
+                            }
+
+                            img {
+                                position: absolute;
+                                top: 0;
+                                right: 0;
+                                left: 0;
+                                bottom: 0;
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+
+
+            }
+        }
+    }
+}
+
+@media(max-width:1232px) {
+    .hero-inner-home {
+        flex-direction: column-reverse;
+        margin: 0 auto;
+        //background-color: aqua;
+        padding: 0;
+        justify-content: center;
+        align-items: center;
+        margin: 0 !important;
+
+        .hero-content-line-home {
+            overflow: visible;
+
+            .hero-content-line-inner-home {
+                margin: 0;
+                height: 44px;
+                overflow: visible;
+            }
+        }
+
+        .hero-content-home {
+            width: 100% !important;
+            height: 100% !important;
+            flex: 2 !important;
+            // background-color: red;
+
+            .hero-content-inner-home {
+                width: 100% !important;
+                // background-color: salmon;
+                margin: 0;
+
+                p {
+                    font-size: 10px !important;
+                    margin: 0 !important;
+                    margin-bottom: 8px !important;
+                }
+
+                .btn-row-home {
+                    position: relative;
+
+                    &:before {
+                        display: none;
+                    }
+
+
+                }
+
+
+            }
+        }
+
+        .hero-images-home {
+            height: 100px;
+            flex: 1;
+            width: 70% !important;
+            overflow: hidden;
+
+            .hero-images-inner-home {
+                .hero-image-home {
+
+                    &.kireche {
+                        display: none;
+                    }
+
+                    width: 100% !important;
+                    height: 100% !important;
+                    position: relative !important;
+
+                    img {
+                        position: relative !important;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media(max-width:500px) {
+    #hch {
+        flex: 3 !important;
+    }
+}
+
+@media(max-height:610px) {
+    .koceila {
+        display: none;
+    }
+
+    #hiih {
+        display: none;
+    }
+}
