@@ -47,7 +47,7 @@ const Header = ({ history, state, setState }) => {
         <div className="wrapper">
           <div className="inner-header">
             <div className="logo">
-              <Link to="/">KOCEILA.</Link>
+              <Link to="/portfolio">KOCEILA.</Link>
             </div>
             <div className="menu">
               <button

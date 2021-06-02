@@ -79,7 +79,7 @@ function App() {
                 <Route exact path='/aboutme' component={Competences} />
                 <Route exact path='/projets' component={Projets} />
                 <Route exact path='/contact' component={Contact} />
-                <Route path='/' component={() => <Home handleClique={handleClique} />} />
+                <Route path='/portfolio' component={() => <Home handleClique={handleClique} />} />
 
               </Switch>
             </div>
