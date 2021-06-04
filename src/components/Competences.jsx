@@ -27,13 +27,13 @@ function Competences() {
                 <article>
                     <p>
                         Je suis Koceila KIRECHE, âgé de 20 ans, je suis passionné par l’informatique dès mon jeune âge.
-                        Attiré par le data science et le Génie Logiciel, je me suis consacré au développement de solutions informatiques basé sur
+                        Attiré par la data science et le Génie Logiciel, je me suis consacré au développement de solutions informatiques basé sur
                         le traitement de données.
                             <br /><br />
                         J’ai veillé durant ma formation à faire grandir ma stack technique en maîtrisant plusieurs langages
                         et technologies (Java, C, Kotlin, PHP, Python, Scheme, Javascript, Typescript, ReactJs, React Native,
                         Vue Js, Développement android avec java et kotlin, Java Fx, Java Swing , ....), et à apprendre les
-                        bonne pratique de programmation tel que l’application de design patterns (Observers, Composite,
+                        bonnes pratiques de programmation tel que l’application de design patterns (Observers, Composite,
                         Decorator, Iterator, State, Strategy, MVC, Factory, Builder, Commande, MVC, MVVM, MVP …) tout en
                         associant les bonnes techniques de développement ( Code Driven, Model Driven, Round Trip, Test driven ).
                     </p>
