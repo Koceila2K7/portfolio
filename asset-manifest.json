@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b149af82.chunk.css",
+    "main.css": "/portfolio/static/css/main.bf8ac32b.chunk.css",
     "main.js": "/portfolio/static/js/main.54963e07.chunk.js",
     "main.js.map": "/portfolio/static/js/main.54963e07.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f69e773e.js",
@@ -8,9 +8,9 @@
     "static/js/2.707b074e.chunk.js": "/portfolio/static/js/2.707b074e.chunk.js",
     "static/js/2.707b074e.chunk.js.map": "/portfolio/static/js/2.707b074e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d056cff5489cfa7b049cff983cd6bfd8.js": "/portfolio/precache-manifest.d056cff5489cfa7b049cff983cd6bfd8.js",
+    "precache-manifest.2cba576a8c2b312cbea18afb49eac1e8.js": "/portfolio/precache-manifest.2cba576a8c2b312cbea18afb49eac1e8.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.b149af82.chunk.css.map": "/portfolio/static/css/main.b149af82.chunk.css.map",
+    "static/css/main.bf8ac32b.chunk.css.map": "/portfolio/static/css/main.bf8ac32b.chunk.css.map",
     "static/media/LinkedIn_logo.png": "/portfolio/static/media/LinkedIn_logo.3f60edfd.png",
     "static/media/Logo_Saclay.png": "/portfolio/static/media/Logo_Saclay.9a174c6f.png",
     "static/media/Logo_Sorbonne_Universite.png": "/portfolio/static/media/Logo_Sorbonne_Universite.9728a6bd.png",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.f69e773e.js",
     "static/js/2.707b074e.chunk.js",
-    "static/css/main.b149af82.chunk.css",
+    "static/css/main.bf8ac32b.chunk.css",
     "static/js/main.54963e07.chunk.js"
   ]
 }
